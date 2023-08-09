@@ -1,0 +1,18 @@
+app
+	-layout.js
+	-page.js
+	-page.module.css
+	
+public
+This is where you put your static assets such as images, fonts, and other files that should be publicly accessible. The favicon.ico file is an example of such an asset.
+
+jsconfig.json
+
+next.config.js
+next.config.js: This file allows you to customize the configuration of your Next.js app. You can configure things like environment variables, webpack settings, and more.
+
+package.json
+package.json and package-lock.json: These files manage your project's dependencies and scripts. package.json holds the package information and project settings, while package-lock.json is used for more deterministic dependency resolution.
+
+REDME.md
+README.md: This is a readme file that typically contains information about your project, how to set it up, and any other relevant details.
